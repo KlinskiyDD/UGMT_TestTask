@@ -1,0 +1,12 @@
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\bin\Debug\net5.0\ClosedListLibrary.deps.json
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\bin\Debug\net5.0\ClosedListLibrary.dll
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\bin\Debug\net5.0\ref\ClosedListLibrary.dll
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\bin\Debug\net5.0\ClosedListLibrary.pdb
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ClosedListLibrary.csprojAssemblyReference.cache
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ClosedListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ClosedListLibrary.AssemblyInfoInputs.cache
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ClosedListLibrary.AssemblyInfo.cs
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ClosedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ClosedListLibrary.dll
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ref\ClosedListLibrary.dll
+C:\Users\skull\Desktop\UGMT\ClosedListLibrary\ClosedListLibrary\obj\Debug\net5.0\ClosedListLibrary.pdb
